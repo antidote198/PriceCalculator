@@ -1,2 +1,1 @@
 # PriceCalculator
-# Hello
